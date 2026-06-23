@@ -1,0 +1,2 @@
+model,total_samples,tp,fp,tn,fn,precision,recall,f1_score
+regex,60,18,11,18,13,0.6207,0.5806,0.6

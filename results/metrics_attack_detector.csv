@@ -1,0 +1,14 @@
+metric,value
+total_samples,107
+tp,56
+fp,0
+tn,48
+fn,3
+precision,1.0
+recall,0.9492
+f1_score,0.9739
+false_positive_rate,0.0
+heuristic_only_count,41
+llm_judge_count,66
+judge_fallback_rate,0.6168
+avg_latency_ms,768.76
