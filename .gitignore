@@ -104,3 +104,4 @@ secret_key.txt
 *.swp
 
 results/
+scripts/
