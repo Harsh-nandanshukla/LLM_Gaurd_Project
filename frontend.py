@@ -394,7 +394,7 @@ import streamlit as st
 # Config
 # ----------------------------------------------------------------------
 
-API_BASE_URL = os.environ.get("GATEWAY_API_URL", "http://localhost:8000")
+API_BASE_URL = os.environ.get("GATEWAY_API_URL", "http://54.144.71.19:8000")
 ANALYZE_ENDPOINT = f"{API_BASE_URL}/analyze"
 REQUEST_TIMEOUT_S = 30
 
